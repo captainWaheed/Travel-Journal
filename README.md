@@ -7,6 +7,13 @@ A React JS based static project.
 
 <img src="./React Solo project 2.jpg" style="position: absolute; left: 50%"/>
 
+## Demo
+
+Here's the link to Static webpage:
+```
+ https://captainwaheed.github.io/Travel-Journal/
+ ```
+
 
 
 ## Covered Concepts
