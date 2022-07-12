@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+body {
+  margin: auto;
+}
+h2 {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b283a;
+}
+hr {
+  width: 200px;
+  height: 0px;
+  border: 1px solid #f5f5f5;
+}
+h5 {
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2b283a;
+}
+.card--info > p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #2b283a;
+}
+.container {
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  width: 550px;
+  height: 756px;
+  margin: auto;
+}
+nav {
+  background-color: #f55a5a;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  margin-bottom: 12px;
+}
+.nav-logo {
+  width: 24px;
+  height: 24px;
+  margin-right: 15px;
+}
+.card--div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+}
+.card--info {
+  max-width: 390px;
+}
+.card--img {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+.card--loc {
+  display: flex;
+  align-items: center;
+  margin-block: -2%;
+}
+.card--loc > * {
+  margin-right: 13px;
+}
+.card--loc > img {
+  width: 8px;
+  height: 12px;
+}
+.card--loc > a {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 10.24px;
+  color: #918e9b;
+}
+.location {
+  font-weight: 400 !important;
+  font-size: 10.24px !important;
+  letter-spacing: 0.17em !important;
+  color: #2b283a !important;
+}
