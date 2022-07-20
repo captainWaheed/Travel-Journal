@@ -4,9 +4,9 @@ A React JS based static project.
 
 
 ## Screenshots
-
-<img src="./React Solo project 2.jpg" style="position: absolute; left: 50%"/>
-
+<p align='center'>
+<img src="./React Solo project 2.jpg"/>
+</p>
 ## Demo
 
 Here's the link to Static webpage:
@@ -34,7 +34,7 @@ The things you need before installing the website source code.
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+* ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 ## Feedback
